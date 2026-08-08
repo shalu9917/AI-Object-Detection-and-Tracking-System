@@ -2,6 +2,7 @@
 
 A real-time AI object detection and multi-object tracking system developed with **python**,**OpenCV**, **Ultralytics YOLOv8 Nano (`yolov8n.pt`)**, and the **SORT (Simple Online and Realtime Tracking)** algorithm.
 
+Real-time AI-powered object detection and tracking using **Python, OpenCV, and NumPy**.
 Designed as a lightweight, beginner-friendly Python solution suitable for internship submissions and computer vision assignments.
 it detects moving objects from a video or webcam and tracks them with unique IDs.
 ---
