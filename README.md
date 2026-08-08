@@ -8,8 +8,14 @@ Real-time AI-powered object detection and multi-object tracking dashboard built 
 ## 📸 Live Dashboard Preview
 
 ![Dashboard Preview](dashboard-demo.jpg.png)
-![Dashboard Preview](screenshot 2026-08-08 165438.png)
-![Dashboard Preview](screenshot 2026-08-08 165459.png)
+## 📸 Project Screenshots
+
+### Detection Output 1
+![Detection 1](Screenshot%202026-08-08%20165438.png)
+
+### Detection Output 2
+![Detection 2](Screenshot%202026-08-08%20165459.png)
+
 Real-time AI-powered object detection and tracking using **Python, OpenCV, and NumPy**.
 Designed as a lightweight, beginner-friendly Python solution suitable for internship submissions and computer vision assignments.
 it detects moving objects from a video or webcam and tracks them with unique IDs.
