@@ -2,6 +2,12 @@
 
 A real-time AI object detection and multi-object tracking system developed with **python**,**OpenCV**, **Ultralytics YOLOv8 Nano (`yolov8n.pt`)**, and the **SORT (Simple Online and Realtime Tracking)** algorithm.
 
+
+Real-time AI-powered object detection and multi-object tracking dashboard built using **Python, OpenCV, and SORT Tracking Algorithm**.
+
+## 📸 Live Dashboard Preview
+
+![Dashboard Preview](dashboard-demo.jpg.png)
 Real-time AI-powered object detection and tracking using **Python, OpenCV, and NumPy**.
 Designed as a lightweight, beginner-friendly Python solution suitable for internship submissions and computer vision assignments.
 it detects moving objects from a video or webcam and tracks them with unique IDs.
@@ -17,7 +23,15 @@ it detects moving objects from a video or webcam and tracks them with unique IDs
       ** Bounding Box visualization**
       ** simple and efficient implementation**
 
----
+--- ## Working Demo
+
+This project performs **real-time object detection and tracking** using a webcam or video source. The dashboard displays:
+
+- FPS (Frames Per Second)
+- Active person IDs
+- Tracked objects count
+- Live analytics chart
+- Bounding boxes around detected objects
 
 ## 📂 Project Structure
 
